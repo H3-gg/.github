@@ -13,7 +13,7 @@ Our team consist of many expierenced Heroes III tournament organizers, players a
 - Kicferk - H3gg website admin,
 - Kubaryt - H3gg Github profile admin,
 - Vanitasss - H3gg Discord server and bot owner,
-- Bejker, Fafhrd, KacperOK, Makiki, mvrcxlinv, Niechcic, Ortant, Ponczek, Ravciozo, Regrof, Sokol_53 and Valerin Bizonov, who also do other various things.
+- Bejker, Fafhrd, KacperOK, Kosixon, Makiki, mvrcxlinv, Niechcic, Ortant, Ponczek, Ravciozo, Regrof, Sokol_53 and Valerin Bizonov, who also do other various things.
 
 ## 🌐 Our website
 
